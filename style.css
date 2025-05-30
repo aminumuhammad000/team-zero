@@ -10,4 +10,28 @@
 body{
     overflow-x: hidden;
 }
+.usman{
+    background-color: white;
+}
+#contact{
+     background-color: rgb(39, 2, 39);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding: 200px;
+}
+.usman{
+    background-color: white;
+    border: 50px;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 2px;
+    height: 400px;
+    width: 600px;
+    margin-left: 200px;
+    
+
+}
+}
+
 
