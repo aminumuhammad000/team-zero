@@ -1,7 +1,4 @@
 "# team-zero"
-Here’s a suggested website content for your Team Zero project. The content is organized into the requested sections: Contact, Team, Testimonials, and Footer — written professionally and cleanly, ready for website use.
-
----
 
 ## 📨 Contact Us
 
@@ -68,7 +65,3 @@ Follow us:
 [Facebook](#) | [Twitter (X)](#) | [Instagram](#) | [LinkedIn](#)
 
 > Powered by passion. Driven by innovation. Built by Team Zero.
-
----
-
-Would you like this in HTML format, a React component, or a Word/Markdown export?
