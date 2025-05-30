@@ -1,5 +1,7 @@
 :rooy{
-    --primary-color: #:
+    --blue: #03548c;
+    --gray: #52646e;
+    --white: #fff;
 }
 *{
     margin: 0;
