@@ -1,4 +1,4 @@
-:rooy{
+:root{
     --blue: #03548c;
     --gray: #52646e;
     --white: #fff;
@@ -21,6 +21,7 @@ body{
      justify-content: center;
      align-items: center;
      padding: 200px;
+     color: var(--white);
 }
 .usman{
     background-color: white;
@@ -33,7 +34,6 @@ body{
     margin-left: 200px;
     
 
-}
 }
 
 
