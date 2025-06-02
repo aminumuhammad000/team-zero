@@ -36,4 +36,55 @@ body{
 
 }
 
+/* madina style  start*/
 
+#readmore {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 4em;
+
+}
+.imageleft{
+     
+     border-radius: 20px;
+     box-shadow: #52646e;
+    
+}
+.imageleft img{
+    border-bottom-left-radius: 20%;
+    border-top-right-radius: 20%;
+    padding-left: 20px;
+    box-shadow: #170246 2px 2px 1px 1px;
+}
+ .write {
+    color: rgb(30, 30, 48);
+    text-shadow: #00080c;
+    font-style: oblique;
+
+    color: rgb(7, 7, 87);
+    text-shadow: #000507;
+    font-style: oblique;
+ }
+ 
+  .readmore {
+          background-color: rgb(71, 71, 199);
+          color: #fff;
+          box-shadow: rgb(87, 85, 85) 2px 2px 1px;
+          border-radius: 10px;
+          border: none;
+          padding: 20px;
+}
+
+   :hover {
+    color: rgb(123, 131, 243);
+   }
+ .icon {
+      background-color: #fff;
+      box-shadow: rgb(13, 20, 53) 2px 2px 1px 1px ;
+      padding: 15px;
+      border-radius: 100%;
+      border: none;
+ }
+
+/* madina style ends  */
